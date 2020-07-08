@@ -1,0 +1,2 @@
+rootProject.name='Activation Signal 1.1'
+include ':app'
